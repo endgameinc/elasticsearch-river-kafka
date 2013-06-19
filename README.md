@@ -199,5 +199,10 @@ https://github.com/elasticsearch/elasticsearch-river-rabbitmq
 	specific language governing permissions and limitations
 	under the License.
 
+Contributors
+-------------
+
+ - [Jason Trost](https://github.com/jt6211/)
+ - [Mark Conlin](https://github.com/meconlin)
 
 
